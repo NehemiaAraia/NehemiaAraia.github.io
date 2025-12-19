@@ -33,7 +33,7 @@ function Timeline() {
   }}
 >
   <img
-    src="https://media.licdn.com/dms/image/v2/C560BAQGXdn7iltWDFg/company-logo_200_200/company-logo_200_200/0/1661792335570/team_handshake_logo?e=1766016000&v=beta&t=JiqVpMyhydIQPGEmzoMPUhluTgp8_nXFogGizC_CIkU"
+    src="https://timeline-picture.s3.us-east-1.amazonaws.com/handshake+logo.jpeg"
     alt="Handshake Logo"
     style={{
       width: '105%',
