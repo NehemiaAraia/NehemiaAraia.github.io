@@ -33,13 +33,13 @@ function Project() {
             </div>
             <div className="project">
                 <a href="https://github.com/NehemiaAraia/Deepfake-Detection-with-Python" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://github.com/NehemiaAraia/Deepfake-Detection-with-Python" target="_blank" rel="noreferrer"><h2>Deepfake Detection</h2></a>
+                <a href="https://github.com/NehemiaAraia/Deepfake-Detection-with-Python" target="_blank" rel="noreferrer"><h2>Deepfake Detector</h2></a>
                 <p>Built a deepfake detection system in Python that uses OpenCV, NumPy, and scikit image to extract video frames and analyze them with MSE and SSIM metrics to highlight manipulated segments and verify authenticity.
 </p>
             </div>
             <div className="project">
                 <a href="https://github.com/NehemiaAraia/Interactive-ML-Chat-Assistant" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://github.com/NehemiaAraia/Interactive-ML-Chat-Assistant" target="_blank" rel="noreferrer"><h2>SOC Assistant</h2></a>
+                <a href="https://github.com/NehemiaAraia/Interactive-ML-Chat-Assistant" target="_blank" rel="noreferrer"><h2>RAG SOC Assistant</h2></a>
                 <p>Built a RAG-based SOC assistant that answers real incident response questions by retrieving and summarizing guidance from NIST, CISA, MITRE ATT&CK, and SOC playbooks, ensuring responses remain policy-aligned and reducing misinformation during active security incidents.</p>
             </div>
             <div className="project">

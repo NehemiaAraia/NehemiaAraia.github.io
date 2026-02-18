@@ -9,7 +9,7 @@ function Main() {
     <div className="container">
       <div className="about-section">
         <div className="image-wrapper">
-          <img src="https://portfolio-profile-picture.s3.us-east-1.amazonaws.com/1739429651966.jpeg" alt="Avatar" />
+          <img src="https://portfolio-profile-picture.s3.us-east-1.amazonaws.com/IMG_8243+2.jpg" alt="Avatar" />
         </div>
         <div className="content">
           <div className="social_icons">
@@ -19,16 +19,7 @@ function Main() {
           <h1>Nehemia Araia</h1>
 
           <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
-  <p style={{ margin: 0 }}>Aspiring Cloud Professional</p>
-
- <a
-  href={`${process.env.PUBLIC_URL}/Resume.pdf`}
-  target="_blank"
-  rel="noopener noreferrer"
-  className="resume-button"
->
-  View Resume
-</a>
+  <p style={{ margin: 0 }}>Aspiring Security Professional</p>
 
 </div>
 
